@@ -43,7 +43,7 @@ Quando sinais de crise aguda são identificados, o Calmya atua automaticamente e
 Por ter sido desenvolvido de forma nativa, este projeto não necessita de instaladores, gerenciadores de pacotes ou compiladores. Para rodar na sua máquina:
 
 1. Clone o repositório ou baixe os arquivos em seu computador.
-2. Localize o arquivo principal do projeto (ex: `calmya-organico.html` ou `index.html`).
+2. Localize o arquivo principal do projeto (ex: (`index.html`).
 3. Dê um **duplo clique** sobre o arquivo para abri-lo diretamente em qualquer navegador web atual (Chrome, Edge, Firefox, Safari).
 
 ---
