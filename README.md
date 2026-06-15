@@ -1,4 +1,4 @@
-# Calmya-APP
+# Calmya APP
 App visando garantir o básico do bem estar psicológico do usuário. 
 =======
 # 💬 Calmya - Saúde Mental
