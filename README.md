@@ -48,7 +48,7 @@ Por ter sido desenvolvido de forma nativa, este projeto não necessita de instal
 
 ---
 
-## ✒️ Autor
+## ✒️ Autores
 
 - Carlos Alberto de Oliveira Cardoso
 - Gabriel Lima da Cunha
